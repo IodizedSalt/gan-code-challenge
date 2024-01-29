@@ -1,3 +1,7 @@
+# My solution uses the jsonwebtoken and express packages.
+# You can start the provided server with `npm run start_server`
+
+
 # GAN Integrity backend code challenge
 
 The script `index.js` uses a local api to perform various operations on a set of cities. Your task is to implement an api so that the script runs successfully all the way to the end.
